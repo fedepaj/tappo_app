@@ -15,6 +15,8 @@ on first run (this is probably necessary since we are replacing the pubspec file
 ```sh
 flutter run
 ```
+Edit the eps.dart file with your AWS Api Gateway REST endpoints.
+
 Thats it for now.
 
 ## Features
