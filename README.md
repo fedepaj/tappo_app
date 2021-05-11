@@ -1,6 +1,8 @@
 # tappo_app
 
-Dashboard app for tappo IoT device.
+Dashboard app for [tappo](https://github.com/fedepaj/tappo/tree/main) IoT device.
+
+> :warning: **Spaghetti code warning**: Be very careful here!
 
 ## How to build
 
@@ -21,7 +23,7 @@ Thats it for now.
 
 ## Features
 
-Image will come soon.
+![app_gif](https://github.com/fedepaj/tappo/blob/assets/app_gif.gif)
 
 The current features of the app are:
 
